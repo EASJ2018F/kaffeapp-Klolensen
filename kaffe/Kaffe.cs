@@ -17,7 +17,7 @@ namespace kaffe
         /// </summary>
         /// <returns></returns>
         public abstract int Pris();
-        
+
         /// <summary>
         /// Angiver hvor stærk kaffe er. 
         /// Sættes default til "stærk"
